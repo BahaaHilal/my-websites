@@ -138,6 +138,6 @@ These projects are licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## Copyright Notice
 
-© 2025 Bahaa Hilal. All rights reserved.
+© 2026 Bahaa Hilal. All rights reserved.
 
 All code in this repository is my original work. If you use any code from this repository, you must include attribution as specified in the LICENSE file.
